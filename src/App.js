@@ -1,4 +1,3 @@
-import './_app.scss'
 import HeaderComponent from './components/headerComponent'
 import BodyComponent from './components/bodyComponent'
 
