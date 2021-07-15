@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/covid-19-tracker-by-amit-roy/static/css/main.a233d030.chunk.css",
+    "main.js": "/covid-19-tracker-by-amit-roy/static/js/main.036cf123.chunk.js",
+    "main.js.map": "/covid-19-tracker-by-amit-roy/static/js/main.036cf123.chunk.js.map",
+    "runtime-main.js": "/covid-19-tracker-by-amit-roy/static/js/runtime-main.930692bd.js",
+    "runtime-main.js.map": "/covid-19-tracker-by-amit-roy/static/js/runtime-main.930692bd.js.map",
+    "static/js/2.4b803338.chunk.js": "/covid-19-tracker-by-amit-roy/static/js/2.4b803338.chunk.js",
+    "static/js/2.4b803338.chunk.js.map": "/covid-19-tracker-by-amit-roy/static/js/2.4b803338.chunk.js.map",
+    "index.html": "/covid-19-tracker-by-amit-roy/index.html",
+    "static/css/main.a233d030.chunk.css.map": "/covid-19-tracker-by-amit-roy/static/css/main.a233d030.chunk.css.map",
+    "static/js/2.4b803338.chunk.js.LICENSE.txt": "/covid-19-tracker-by-amit-roy/static/js/2.4b803338.chunk.js.LICENSE.txt",
+    "static/media/indianFlag.7c92a5aa.png": "/covid-19-tracker-by-amit-roy/static/media/indianFlag.7c92a5aa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.930692bd.js",
+    "static/js/2.4b803338.chunk.js",
+    "static/css/main.a233d030.chunk.css",
+    "static/js/main.036cf123.chunk.js"
+  ]
+}
